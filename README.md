@@ -1,2 +1,3 @@
 # First-repo
-First GitHub repository
+First GitHub repository made by me
+
